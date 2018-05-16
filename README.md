@@ -9,6 +9,8 @@ Graphene and DPOS Blockchains
 | Steem | Social | yes | yes |
 | EOS | General | no | yes |
 | YOYOW | Social | yes | yes |
+| [Scorum](https://github.com/Scorum/Scorum) | Betting/Social | no | no |
+| [DECENT](https://github.com/DECENTfoundation/DECENT-Network) | Content | no | yes |
 
 
 ...
