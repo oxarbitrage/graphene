@@ -11,6 +11,8 @@ Graphene and DPOS Blockchains
 | YOYOW | Social | yes | yes |
 | [Scorum](https://github.com/Scorum/Scorum) | Betting/Social | no | no |
 | [DECENT](https://github.com/DECENTfoundation/DECENT-Network) | Content | no | yes |
+| [DEIP](https://gitlab.com/DEIP) | Science | no | no |
+
 
 
 ...
