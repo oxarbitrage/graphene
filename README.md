@@ -15,7 +15,8 @@ Graphene and DPOS Blockchains
 | [DasCoin](https://dascoin.com) | Finance | no | no | [dascoin-blockchain](https://github.com/techsolutions-ltd/dascoin-blockchain) | [dascoin-fc](https://github.com/techsolutions-ltd/dascoin-fc) | |
 | [Gravity](https://www.gravityprotocol.org/) | Finance | no | yes | [gravity-core](https://github.com/GravityProtocol/gravity-core) |  | | 
 | [Golos](https://golos.io/) | Socio-economic | yes | yes | [golos](https://github.com/GolosChain/golos) | [fc](https://github.com/GolosChain/fc) | | 
-| [Smoke](https://smoke.network/) | Socio-economic | no | yes | [smoked](https://github.com/smokenetwork/smoked) | | | 
+| [Smoke](https://smoke.network/) | Socio-economic | no | yes | [smoked](https://github.com/smokenetwork/smoked) | | |
+| [BitEthereum](https://www.bitethereum.io) | Finance | no | no | [Bitethereum-core](https://github.com/BitethereumFoundation/Bitethereum-core) | [bitshares-fc](https://github.com/BitethereumFoundation/bitshares-fc) | | 
 
 
 
