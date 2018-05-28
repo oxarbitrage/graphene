@@ -1,5 +1,8 @@
-# graphene
-Graphene and DPOS Blockchains
+# Graphene Blockchains List
+
+Telegram: https://t.me/joinchat/Dnlz3xIp3s4vR0InTfAs3w
+
+Graphene and DPOS Blockchains:
 
 | Name | Category | Live | Testnet | Source Code | FC | Python-Lib
 | --- | --- | --- | --- | --- | --- | --- | 
@@ -17,8 +20,3 @@ Graphene and DPOS Blockchains
 | [Golos](https://golos.io/) | Socio-economic | yes | yes | [golos](https://github.com/GolosChain/golos) | [fc](https://github.com/GolosChain/fc) | | 
 | [Smoke](https://smoke.network/) | Socio-economic | no | yes | [smoked](https://github.com/smokenetwork/smoked) | | |
 | [BitEthereum](https://www.bitethereum.io) | Finance | no | no | [Bitethereum-core](https://github.com/BitethereumFoundation/Bitethereum-core) | [bitshares-fc](https://github.com/BitethereumFoundation/bitshares-fc) | | 
-
-
-
-
-...
