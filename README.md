@@ -14,10 +14,10 @@ Graphene and DPOS Blockchains info for developers:
 | [YOYOW](https://yoyow.org/) | Social | yes | yes | | | [More](#yoyow) | 
 | [Scorum](https://scorumcoins.com/) | Betting/Social | no | no | [scorum](https://github.com/scorum/scorum) | [fc](https://github.com/scorum/fc) | [More](#scorum) | 
 | [DECENT](https://decent.ch/) | Content | no | yes | [DECENT-Network](https://github.com/DECENTfoundation/DECENT-Network) | [fc](https://github.com/DECENTfoundation/fc) | [More](#decent) | 
-| [DEIP](http://deip.world/) | Science | no | no |  |  [More](#deip)| 
+| [DEIP](http://deip.world/) | Science | no | no |  |  | [More](#deip)| 
 | [DasCoin](https://dascoin.com) | Finance | no | no | [dascoin-blockchain](https://github.com/techsolutions-ltd/dascoin-blockchain) | [dascoin-fc](https://github.com/techsolutions-ltd/dascoin-fc) | [More](#dascoin) | 
-| [Gravity](https://www.gravityprotocol.org/) | Finance | no | yes | [gravity-core](https://github.com/GravityProtocol/gravity-core) |  | | [More](#gravity) |
-| [Golos](https://golos.io/) | Socio-economic | yes | yes | [golos](https://github.com/GolosChain/golos) | [fc](https://github.com/GolosChain/fc) | | [More](#golos) |
+| [Gravity](https://www.gravityprotocol.org/) | Finance | no | yes | [gravity-core](https://github.com/GravityProtocol/gravity-core) |  | [More](#gravity) |
+| [Golos](https://golos.io/) | Socio-economic | yes | yes | [golos](https://github.com/GolosChain/golos) | [fc](https://github.com/GolosChain/fc) | [More](#golos) |
 | [Smoke](https://smoke.network/) | Socio-economic | no | yes | [smoked](https://github.com/smokenetwork/smoked) | | [More](#smoke) | 
 | [BitEthereum](https://www.bitethereum.io) | Finance | no | no | [Bitethereum-core](https://github.com/BitethereumFoundation/Bitethereum-core) | [bitshares-fc](https://github.com/BitethereumFoundation/bitshares-fc) | [More](#bitethereum) | 
 
