@@ -7,7 +7,7 @@ Graphene and DPOS Blockchains info for developers:
 | Name | Category | Live | Testnet | Source Code | FC | Python-Lib
 | --- | --- | --- | --- | --- | --- | --- | 
 | [Bitshares](https://bitshares.org/) | Finance | yes | yes | [bitshares-core](https://github.com/bitshares/bitshares-core) | [bitshares-fc](https://github.com/bitshares/bitshares-fc) | [python-bitshares](https://github.com/bitshares/python-bitshares) |
-| [Peerplays](https://www.peerplays.com/) | Betting | yes | yes | [peerplays](https://github.com/PBSA/peerplays) | [peerplays-fc](https://github.com/PBSA/peerplays-fc) | |
+| [Peerplays](https://www.peerplays.com/) | Betting | yes | yes | [peerplays](https://github.com/PBSA/peerplays) | [peerplays-fc](https://github.com/PBSA/peerplays-fc) | [python-peerplays](https://github.com/PBSA/python-peerplays) |
 | [Muse](http://museblockchain.com/) | Music | yes | no | [Muse-Source](https://github.com/themuseblockchain/Muse-Source) | [Muse-FC](https://github.com/themuseblockchain/Muse-FC) | |
 | [Steem](http://steemit.com/) | Socio-economic | yes | yes | [steem](https://github.com/steemit/steem) | [fc](https://github.com/steemit/fc) | | 
 | [EOS](https://eos.io/) | General | no | yes | [eos](https://github.com/EOSIO/eos) | [fc](https://github.com/EOSIO/eos/tree/master/libraries/fc) | | 
