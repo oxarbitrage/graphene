@@ -27,13 +27,23 @@ Graphene and DPOS Blockchains info for developers:
 | --- | --- |
 | Python Lib |  [python-bitshares](https://github.com/bitshares/python-bitshares) |
 | Main UI |  [bitshares-ui](https://github.com/bitshares/bitshares-ui) |
-
+| Core Doxygen |  [doxygen](https://bitshares.org/doxygen/) |
+| API documentation | |
+| Developers Telegram | by invitation |
 
 ### Peerplays
+
+| Name | URL |
+| --- | --- |
+| Python Lib |  [python-peerplays](https://github.com/PBSA/python-peerplays) |
 
 ### Muse
 
 ### Steem
+
+| Name | URL |
+| --- | --- |
+| Python Lib |  [steem-python](https://github.com/steemit/steem-python) |
 
 ### EOS
 
